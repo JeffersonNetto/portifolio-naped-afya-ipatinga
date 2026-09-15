@@ -20,12 +20,12 @@ title-block: false
 ## Explore o portfólio
 
 <div class="link-grid">
-  <a class="link-card" href="acoes.html"><strong>Ações</strong><span>Registros de atividades do NAPED, pesquisáveis por período e tema.</span><b>Explorar →</b></a>
-  <a class="link-card" href="meses.html"><strong>Meses</strong><span>Uma visão cronológica do trabalho realizado em 2026.</span><b>Ver meses →</b></a>
-  <a class="link-card" href="projetos.html"><strong>Projetos</strong><span>Iniciativas continuadas com páginas e evidências próprias.</span><b>Conhecer →</b></a>
-  <a class="link-card" href="equipe.html"><strong>Equipe</strong><span>As pessoas responsáveis pelo trabalho pedagógico.</span><b>Ver equipe →</b></a>
-  <a class="link-card" href="resultados.html"><strong>Painel</strong><span>Indicadores derivados das ações aprovadas.</span><b>Consultar →</b></a>
-  <a class="link-card" href="comprovacoes.html"><strong>Comprovações</strong><span>Materiais públicos que documentam ações e projetos.</span><b>Ver evidências →</b></a>
+  <div><a class="link-card" href="acoes.html"><strong>Ações</strong><span>Registros de atividades do NAPED, pesquisáveis por período e tema.</span><b>Explorar →</b></a></div>
+  <div><a class="link-card" href="meses.html"><strong>Meses</strong><span>Uma visão cronológica do trabalho realizado em 2026.</span><b>Ver meses →</b></a></div>
+  <div><a class="link-card" href="projetos.html"><strong>Projetos</strong><span>Iniciativas continuadas com páginas e evidências próprias.</span><b>Conhecer →</b></a></div>
+  <div><a class="link-card" href="equipe.html"><strong>Equipe</strong><span>As pessoas responsáveis pelo trabalho pedagógico.</span><b>Ver equipe →</b></a></div>
+  <div><a class="link-card" href="resultados.html"><strong>Painel</strong><span>Indicadores derivados das ações aprovadas.</span><b>Consultar →</b></a></div>
+  <div><a class="link-card" href="comprovacoes.html"><strong>Comprovações</strong><span>Materiais públicos que documentam ações e projetos.</span><b>Ver evidências →</b></a></div>
 </div>
 
 ## Ações recentes
