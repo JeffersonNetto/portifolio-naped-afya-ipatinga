@@ -28,11 +28,23 @@ jobs:
         run: quarto render
       - name: Configurar Pages
         uses: actions/configure-pages@v6
+      - name: Empacotar site para o Pages
+        run: |
+          tar \
+            --dereference --hard-dereference \
+            --directory _site \
+            -cvf "$RUNNER_TEMP/artifact.tar" \
+            --exclude=.git \
+            --exclude=.github \
+            --exclude=".[^/]*" \
+            .
       - name: Enviar site gerado
         uses: actions/upload-artifact@v6
         with:
           name: github-pages
-          path: _site
+          path: ${{ runner.temp }}/artifact.tar
+          retention-days: 1
+          if-no-files-found: error
 
   deploy:
     needs: build
