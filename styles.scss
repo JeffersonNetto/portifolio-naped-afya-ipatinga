@@ -33,7 +33,19 @@ body { line-height: 1.65; }
 .navbar-nav .nav-link:hover, .navbar-nav .nav-link:focus-visible { color: $brand-accent; }
 footer.footer { border-top: 1px solid $line; background: $surface; color: $muted; }
 
-main.content { padding-top: 2rem; padding-bottom: 4rem; }
+/* Largura padrão do conteúdo em todas as páginas.
+   O _quarto.yml define `page-layout: full` globalmente, então este
+   container assume o papel de limitar/centralizar o conteúdo de
+   forma idêntica na inicial e nas páginas internas. */
+main.content {
+  width: 100%;
+  max-width: 72rem;
+  margin-inline: auto;
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+  padding-inline: clamp(1rem, 4vw, 2rem);
+  box-sizing: border-box;
+}
 main.content:has(.hero-panel) #title-block-header { display: none; }
 h1, h2, h3 { letter-spacing: -.035em; line-height: 1.16; }
 h1 { font-size: clamp(2.5rem, 5vw, 4.8rem); }
@@ -133,6 +145,16 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
 .editorial-list { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: .8rem 2rem; padding: 0; list-style: none; }
 .editorial-list li { border-bottom: 1px solid $line; padding: 1rem 0; }
 .editorial-list strong { display: block; font-size: 1.06rem; }
+
+/* Figura das páginas de ação: flutua à direita com o texto correndo
+   ao redor no desktop (evita o vazio ao lado de artes altas) e
+   empilha em largura total no mobile. */
+.acao-figura { float: right; width: min(22rem, 40%); margin: 0 0 1.2rem 1.8rem; }
+.acao-figura img { width: 100%; height: auto; border-radius: .9rem; }
+.acao-figura figcaption { font-size: .85rem; color: $muted; }
+@media (max-width: 700px) {
+  .acao-figura { float: none; width: 100%; margin: 0 0 1.2rem; }
+}
 
 @media (max-width: 850px) {
   .link-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }

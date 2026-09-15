@@ -1,7 +1,6 @@
 ---
 title: "Portfólio NAPED · Afya Ipatinga"
 description: "Estrutura do portfólio de ações e resultados do NAPED Afya Ipatinga."
-page-layout: full
 title-block: false
 ---
 
