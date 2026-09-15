@@ -140,7 +140,8 @@ a:focus-visible, button:focus-visible, .nav-link:focus-visible {
   .metric-grid, .month-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
   .action-grid, .project-grid, .evidence-grid, .team-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
 }
-@media (max-width: 600px) {
+/* Em telas de mão mais largas, duas colunas continuam legíveis e evitam áreas vazias. */
+@media (max-width: 480px) {
   .link-grid, .editorial-list, .metric-grid, .month-grid, .action-grid, .project-grid, .evidence-grid, .team-grid { grid-template-columns: 1fr; }
   main.content { padding-top: 1.2rem; }
   .hero-panel { border-radius: 1rem; }
