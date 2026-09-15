@@ -4,7 +4,7 @@
 
 ## Resultado esperado
 
-Aplicar a direção visual aprovada em uma base compartilhada: home, páginas editoriais, listagens, painel, manual e receita mantêm identidade consistente em desktop e celular.
+Aplicar a direção visual aprovada em uma base compartilhada: home, páginas editoriais, listagens e painel mantêm identidade consistente em desktop e celular.
 
 ## Trabalho
 
@@ -13,7 +13,7 @@ Aplicar a direção visual aprovada em uma base compartilhada: home, páginas ed
 - Garantir largura de leitura, tabelas adaptativas, legendas, estados de carregamento quando aplicável e estilos de impressão.
 - Definir hover/foco/ativo e `prefers-reduced-motion`; evitar autoplay intrusivo e manter navegação por teclado.
 - Padronizar imagem com `object-fit`, recorte documentado, tamanhos responsivos e fallback visual.
-- Não injetar textos técnicos no percurso do visitante; manual e receita explicam operação em páginas próprias.
+- Não injetar textos técnicos no percurso do visitante; instruções operacionais permanecem na documentação interna do repositório.
 
 ## Critérios de aceite
 
@@ -24,4 +24,4 @@ Aplicar a direção visual aprovada em uma base compartilhada: home, páginas ed
 
 ## Verificação
 
-QA visual em home, ação e painel; inspeção de contraste, menu, redução de movimento e impressão do manual.
+QA visual em home, ação e painel; inspeção de contraste, menu e redução de movimento.

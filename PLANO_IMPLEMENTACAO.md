@@ -8,7 +8,7 @@ Criar um portfólio público das ações e dos resultados do **Núcleo de Apoio 
 
 O produto é um **site do NAPED**, com contexto breve da unidade. Não deve reproduzir o portal institucional inteiro, apresentar ações de São João del-Rei como se fossem de Ipatinga, nem mostrar métricas inventadas. A primeira versão cobre 2026. A estrutura técnica deverá aceitar 2027 sem refazer a arquitetura. **Entrega imediata:** esqueleto navegável, arquivos-molde, guia de materiais e workflow preparado; o acervo real será acrescentado em breve.
 
-**Decisões ainda abertas:** disponibilidade do guia de marca, direitos dos arquivos, lista de eixos, nome institucional exato e conteúdo inicial. A primeira versão deve reproduzir a **estrutura completa** do exemplo, adaptada a Ipatinga: vitrine, meses, projetos, equipe, painel, recortes “Em Números”, comprovações, manual e receita. Páginas sem materiais locais aprovados devem usar um estado editorial honesto durante a preparação e só entrar no menu público quando tiverem conteúdo útil. O cadastro será por arquivos em **editor local**; a escolha do editor ainda está em alinhamento.
+**Decisões ainda abertas:** disponibilidade do guia de marca, direitos dos arquivos, lista de eixos, nome institucional exato e conteúdo inicial. A primeira versão deve reproduzir a **estrutura central** do exemplo, adaptada a Ipatinga: vitrine, meses, projetos, equipe, painel, recortes “Em Números” e comprovações. Páginas sem materiais locais aprovados devem usar um estado editorial honesto durante a preparação e só entrar no menu público quando tiverem conteúdo útil. O cadastro será por arquivos em **editor local**; a escolha do editor ainda está em alinhamento.
 
 ## 2. O que foi inspecionado
 
@@ -41,7 +41,7 @@ O produto é um **site do NAPED**, com contexto breve da unidade. Não deve repr
 6. **Resultados:** painel derivado dos metadados; totais e gráficos explicam denominador e dados ausentes. Recortes “Em Números” por semestre de 2026 reproduzem a dimensão narrativa do exemplo sem duplicar números manualmente.
 7. **Comprovações:** índice público de evidências autorizadas e instrução de solicitação para materiais internos.
 8. **Sobre/Contato:** atribuições e canais oficiais confirmados.
-9. **Manual editorial e Receita:** páginas do site e arquivos-fonte, para explicar a atualização por editor local e a montagem/manutenção técnica do portfólio, ambos adaptados ao fluxo real de Ipatinga.
+9. **Documentação editorial:** arquivos internos do repositório explicam a atualização por editor local e a manutenção técnica do portfólio, adaptados ao fluxo real de Ipatinga.
 
 Menu enxuto no celular; acessos principais acima da dobra. Evitar menus com itens vazios e esconder módulos sem conteúdo aprovado.
 
@@ -83,8 +83,6 @@ Estrutura inicial prevista:
 ├── resultados.qmd
 ├── equipe.qmd
 ├── sobre.qmd
-├── manual.qmd
-├── receita.qmd
 ├── acoes/
 │   ├── _modelo.qmd
 │   └── 2026-MM-slug.qmd
@@ -95,7 +93,7 @@ Estrutura inicial prevista:
 ├── fotos/                  # somente imagens autorizadas
 ├── assets/                 # CSS, scripts pequenos, ícones próprios
 ├── scripts/                # validação, leitura de metadados, geração
-├── docs/                   # manual e decisões
+├── docs/                   # orientações editoriais e decisões
 └── PLANO_IMPLEMENTACAO.md
 ```
 
@@ -145,10 +143,10 @@ A página institucional de Ipatinga é boa fonte para missão e atribuições, m
 | 0. Alinhamento | Escopo, inventário e identidade | NAPED-01 a 03 | Guia e amostra de conteúdo recebidos; mapa aprovado |
 | 1. Fundação | Quarto, modelo, validação e dados derivados | NAPED-04 a 06 | Arquivo de ação de teste gera página, mês e métricas corretas |
 | 2. Experiência | Layout, vitrine, detalhe, meses, equipe, resultados, projetos e comprovações | NAPED-07 a 11 | Fluxos desktop/mobile e teclado verificados |
-| 3. Conteúdo | Cadastro, recortes semestrais, manual e receita | NAPED-12 e 13 | Material 2026 aprovado; nenhuma ação ou número atribuído indevidamente |
+| 3. Conteúdo | Cadastro, recortes semestrais e documentação editorial | NAPED-12 e 13 | Material 2026 aprovado; nenhuma ação ou número atribuído indevidamente |
 | 4. Entrega | CI, Pages, QA e revisão final | NAPED-14 a 16 | Render e workflow verdes, URL real conferida, aceite editorial |
 
-**Definição de pronto geral:** todos os links e imagens funcionam no prefixo do Pages; há somente conteúdo de Ipatinga aprovado; página e painel concordam com os arquivos; mobile, teclado e contraste estão adequados; Open Graph, título e descrição representam o NAPED; o editor consegue seguir o manual; uma ação nova não exige editar índices; publicação mantém a última versão válida se um build falhar.
+**Definição de pronto geral:** todos os links e imagens funcionam no prefixo do Pages; há somente conteúdo de Ipatinga aprovado; página e painel concordam com os arquivos; mobile, teclado e contraste estão adequados; Open Graph, título e descrição representam o NAPED; o editor consegue seguir a documentação editorial; uma ação nova não exige editar índices; publicação mantém a última versão válida se um build falhar.
 
 **Riscos concretos e respostas:**
 

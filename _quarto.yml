@@ -43,10 +43,6 @@ website:
     right:
       - href: sobre.qmd
         text: Sobre
-      - href: manual.qmd
-        text: Manual
-      - href: receita.qmd
-        text: Receita
   page-footer:
     left: "NAPED · Afya Ipatinga · Minas Gerais"
     right: "Portfólio 2026"

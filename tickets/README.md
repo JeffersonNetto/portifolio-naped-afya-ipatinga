@@ -16,7 +16,7 @@ O [plano de implementação](../PLANO_IMPLEMENTACAO.md) reúne decisões, arquit
 | NAPED-10 | [Equipe, sobre e comprovações](NAPED-10-institucional-evidencias.md) | P1 | 2–3 d | 01, 07 |
 | NAPED-11 | [Painel e recortes semestrais](NAPED-11-resultados.md) | P0 | 3–4 d | 05–07 |
 | NAPED-12 | [Conteúdo 2026 e acervo](NAPED-12-conteudo-2026.md) | P0 | 2–5 d | 01, 05, materiais |
-| NAPED-13 | [Manual e Receita adaptados](NAPED-13-documentacao-editorial.md) | P1 | 2–3 d | 05, 06, 14 |
+| NAPED-13 | [Documentação editorial adaptada](NAPED-13-documentacao-editorial.md) | P1 | 2–3 d | 05, 06, 14 |
 | NAPED-14 | [Workflow e GitHub Pages](NAPED-14-ci-pages.md) | P0 | 1–2 d | 04–06 |
 | NAPED-15 | [QA, acessibilidade e performance](NAPED-15-qa.md) | P0 | 2–3 d | 07–14 |
 | NAPED-16 | [Publicação e aceite](NAPED-16-publicacao-aceite.md) | P0 | 1–2 d | 15, acesso GitHub |

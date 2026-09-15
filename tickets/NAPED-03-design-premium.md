@@ -12,7 +12,7 @@ Proposta visual aprovada antes da implementação final: moodboard, tokens de ma
 - Criar wireframes de home, listagem, ação, painel e menu mobile; selecionar foto real autorizada para a capa.
 - Definir grid, largura de leitura, espaçamento, escala tipográfica, cards, etiquetas, métricas, tabelas, estados de foco/hover e rodapé.
 - Projetar imagem reserva e cards sem foto, para acervo incompleto; não depender de imagens genéricas da outra unidade.
-- Especificar tokens SCSS e variantes de componentes, impressão do manual e movimento reduzido.
+- Especificar tokens SCSS e variantes de componentes, estilo de impressão quando necessário e movimento reduzido.
 - Apresentar protótipo visual e registrar alterações solicitadas.
 
 ## Critérios de aceite

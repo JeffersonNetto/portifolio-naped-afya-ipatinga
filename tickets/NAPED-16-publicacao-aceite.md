@@ -14,7 +14,7 @@ Portfólio aprovado no endereço GitHub Pages da conta JeffersonNetto, com opera
 - Enviar commits ao repositório existente, ativar Pages com GitHub Actions, acompanhar build e abrir URL real.
 - Confirmar que projeto de GitHub Pages responde em HTTPS e que links em redes/WhatsApp mostram metadados corretos.
 - Registrar URL, data, versão/commit, processo de atualização, proprietário da conta e procedimento de rollback.
-- Transferir ao usuário manual e backlog restante; conferir uma atualização controlada feita via VS Code.
+- Transferir ao usuário a documentação editorial e o backlog restante; conferir uma atualização controlada feita via VS Code.
 
 ## Critérios de aceite
 

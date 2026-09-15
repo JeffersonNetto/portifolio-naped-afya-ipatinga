@@ -4,7 +4,7 @@
 
 ## Resultado esperado
 
-Mapa de navegação da **estrutura completa** da referência, reescrito para o NAPED Afya Ipatinga e ajustado ao conteúdo aprovado. Deve prever Início, Ações, Meses, Projetos, Equipe, Painel, Em Números, Comprovações, Sobre/Contato, Manual e Receita.
+Mapa de navegação da referência, reescrito para o NAPED Afya Ipatinga e ajustado ao conteúdo aprovado. Deve prever Início, Ações, Meses, Projetos, Equipe, Painel, Em Números, Comprovações e Sobre/Contato.
 
 ## Trabalho
 
