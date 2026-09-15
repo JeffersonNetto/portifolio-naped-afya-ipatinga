@@ -1,0 +1,14 @@
+---
+title: "Fevereiro de 2026"
+description: "Ações demonstrativas do NAPED Afya Ipatinga em fevereiro de 2026."
+---
+
+<div class="page-kicker">Linha do tempo · 2026</div>
+
+<div class="demo-banner"><strong>Dados fictícios.</strong> Esta página é gerada automaticamente a partir dos arquivos em `acoes/`.</div>
+
+<div class="action-grid"><article class="action-card">
+  <a class="card-image" href="../acoes/2026-02-jornada-de-planejamento.html"><img src="../fotos/hero-workshop-demo.png" alt="Educadores reunidos em oficina de planejamento" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">12/02/2026</div><span class="tag">Formação Docente</span><span class="tag">Gestão Pedagógica</span>
+  <h3><a href="../acoes/2026-02-jornada-de-planejamento.html">Jornada de Planejamento Docente</a></h3><p>Encontro demonstrativo para alinhar práticas de ensino, avaliação e acolhimento do semestre.</p></div>
+</article></div>

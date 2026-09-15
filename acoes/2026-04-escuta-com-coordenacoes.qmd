@@ -1,0 +1,26 @@
+---
+title: "Escuta com Coordenações de Curso"
+description: "Conversa demonstrativa para mapear necessidades pedagógicas e prioridades de acompanhamento."
+date: 2026-04-08
+categories: ["Gestão Pedagógica", "Apoio Acadêmico"]
+status: "publicado"
+image: "fotos/hero-workshop-demo.png"
+image-alt: "Reunião de escuta e planejamento"
+participantes: 12
+horas: 2
+publico: "Coordenações"
+cursos: ["Medicina", "Enfermagem", "Farmácia"]
+projeto: "observatorio-de-aprendizagem"
+---
+
+## Objetivo
+
+Registrar o levantamento de demandas que orienta ações futuras do NAPED.
+
+## Desenvolvimento
+
+A conversa organizou temas recorrentes e definiu prioridades de apoio ao longo do semestre.
+
+## Resultados e encaminhamentos
+
+O mapa de necessidades passou a orientar os encontros demonstrativos do segundo trimestre.

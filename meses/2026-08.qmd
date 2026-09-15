@@ -1,0 +1,14 @@
+---
+title: "Agosto de 2026"
+description: "Ações demonstrativas do NAPED Afya Ipatinga em agosto de 2026."
+---
+
+<div class="page-kicker">Linha do tempo · 2026</div>
+
+<div class="demo-banner"><strong>Dados fictícios.</strong> Esta página é gerada automaticamente a partir dos arquivos em `acoes/`.</div>
+
+<div class="action-grid"><article class="action-card">
+  <a class="card-image" href="../acoes/2026-08-acolhimento-de-novos-docentes.html"><img src="../fotos/hero-workshop-demo.png" alt="Encontro de acolhimento para docentes" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">06/08/2026</div><span class="tag">Acolhimento</span><span class="tag">Apoio Acadêmico</span>
+  <h3><a href="../acoes/2026-08-acolhimento-de-novos-docentes.html">Acolhimento de Novos Docentes</a></h3><p>Atividade demonstrativa de integração, apresentação de recursos e escuta de necessidades.</p></div>
+</article></div>

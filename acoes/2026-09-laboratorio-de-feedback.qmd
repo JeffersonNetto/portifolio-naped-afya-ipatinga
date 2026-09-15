@@ -1,0 +1,26 @@
+---
+title: "Laboratório de Feedback"
+description: "Prática demonstrativa para qualificar conversas de devolutiva com estudantes."
+date: 2026-09-17
+categories: ["Formação Docente", "Apoio Acadêmico"]
+status: "publicado"
+image: "fotos/hero-workshop-demo.png"
+image-alt: "Docentes em atividade de laboratório de feedback"
+participantes: 29
+horas: 3
+publico: "Docentes"
+cursos: ["Medicina"]
+projeto: "laboratorio-de-praticas"
+---
+
+## Objetivo
+
+Exemplificar uma oficina de desenvolvimento de práticas de feedback.
+
+## Desenvolvimento
+
+Foram simuladas conversas de orientação e analisados critérios de clareza, escuta e acompanhamento.
+
+## Resultados e encaminhamentos
+
+Os participantes definiram pequenos experimentos para aplicar em suas atividades de ensino.

@@ -1,0 +1,26 @@
+---
+title: "Encontro de Boas Práticas"
+description: "Mostra demonstrativa de experiências pedagógicas compartilhadas entre docentes."
+date: 2026-06-25
+categories: ["Formação Docente", "Produção de Conhecimento"]
+status: "publicado"
+image: "fotos/hero-workshop-demo.png"
+image-alt: "Docentes reunidos em encontro de boas práticas"
+participantes: 44
+horas: 4
+publico: "Docentes e coordenações"
+cursos: ["Medicina", "Enfermagem", "Farmácia"]
+projeto: "laboratorio-de-praticas"
+---
+
+## Objetivo
+
+Registrar uma atividade de compartilhamento e sistematização de experiências.
+
+## Desenvolvimento
+
+Os participantes apresentaram relatos curtos e receberam devolutivas dos pares.
+
+## Resultados e encaminhamentos
+
+Os relatos formaram uma base de referência para futuras publicações institucionais.

@@ -1,0 +1,26 @@
+---
+title: "Jornada de Planejamento Docente"
+description: "Encontro demonstrativo para alinhar práticas de ensino, avaliação e acolhimento do semestre."
+date: 2026-02-12
+categories: ["Formação Docente", "Gestão Pedagógica"]
+status: "publicado"
+image: "fotos/hero-workshop-demo.png"
+image-alt: "Educadores reunidos em oficina de planejamento"
+participantes: 38
+horas: 4
+publico: "Docentes"
+cursos: ["Medicina", "Enfermagem"]
+projeto: "laboratorio-de-praticas"
+---
+
+## Objetivo
+
+Demonstrar como um encontro de planejamento pode ser registrado no portfólio.
+
+## Desenvolvimento
+
+O grupo revisou objetivos de aprendizagem, experiências do semestre anterior e possibilidades de avaliação formativa.
+
+## Resultados e encaminhamentos
+
+Foram definidos encaminhamentos para acompanhamento pedagógico no primeiro bimestre.

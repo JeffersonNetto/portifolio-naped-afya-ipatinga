@@ -1,0 +1,26 @@
+---
+title: "Acolhimento de Novos Docentes"
+description: "Atividade demonstrativa de integração, apresentação de recursos e escuta de necessidades."
+date: 2026-08-06
+categories: ["Acolhimento", "Apoio Acadêmico"]
+status: "publicado"
+image: "fotos/hero-workshop-demo.png"
+image-alt: "Encontro de acolhimento para docentes"
+participantes: 18
+horas: 3
+publico: "Novos docentes"
+cursos: ["Medicina", "Enfermagem"]
+projeto: "observatorio-de-aprendizagem"
+---
+
+## Objetivo
+
+Demonstrar como registrar uma ação de acolhimento institucional.
+
+## Desenvolvimento
+
+Foram apresentados fluxos de apoio pedagógico, ferramentas e canais de escuta.
+
+## Resultados e encaminhamentos
+
+Os participantes receberam um roteiro de integração e indicação de próximos encontros.

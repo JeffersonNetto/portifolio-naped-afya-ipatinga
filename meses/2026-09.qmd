@@ -1,0 +1,14 @@
+---
+title: "Setembro de 2026"
+description: "Ações demonstrativas do NAPED Afya Ipatinga em setembro de 2026."
+---
+
+<div class="page-kicker">Linha do tempo · 2026</div>
+
+<div class="demo-banner"><strong>Dados fictícios.</strong> Esta página é gerada automaticamente a partir dos arquivos em `acoes/`.</div>
+
+<div class="action-grid"><article class="action-card">
+  <a class="card-image" href="../acoes/2026-09-laboratorio-de-feedback.html"><img src="../fotos/hero-workshop-demo.png" alt="Docentes em atividade de laboratório de feedback" loading="lazy"></a>
+  <div class="card-body"><div class="card-meta">17/09/2026</div><span class="tag">Formação Docente</span><span class="tag">Apoio Acadêmico</span>
+  <h3><a href="../acoes/2026-09-laboratorio-de-feedback.html">Laboratório de Feedback</a></h3><p>Prática demonstrativa para qualificar conversas de devolutiva com estudantes.</p></div>
+</article></div>

@@ -1,0 +1,26 @@
+---
+title: "Semana de Inovação Pedagógica"
+description: "Programação demonstrativa com oficinas sobre desenho de aprendizagem e tecnologias educacionais."
+date: 2026-10-22
+categories: ["Inovação Pedagógica", "Formação Docente"]
+status: "publicado"
+image: "fotos/hero-workshop-demo.png"
+image-alt: "Oficina de inovação pedagógica"
+participantes: 57
+horas: 8
+publico: "Docentes e preceptores"
+cursos: ["Medicina", "Biomedicina", "Farmácia"]
+projeto: "laboratorio-de-praticas"
+---
+
+## Objetivo
+
+Demonstrar uma ação de maior duração com diferentes públicos e temas.
+
+## Desenvolvimento
+
+A programação reuniu oficinas de planejamento, atividades ativas e avaliação de experiências de aprendizagem.
+
+## Resultados e encaminhamentos
+
+Foram registrados temas prioritários para a continuidade da formação no ano seguinte.

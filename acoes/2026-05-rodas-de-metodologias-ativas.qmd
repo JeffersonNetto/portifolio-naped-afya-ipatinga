@@ -1,0 +1,26 @@
+---
+title: "Rodas de Metodologias Ativas"
+description: "Série demonstrativa de conversas práticas sobre estratégias participativas em sala de aula."
+date: 2026-05-14
+categories: ["Formação Docente", "Inovação Pedagógica"]
+status: "publicado"
+image: "fotos/hero-workshop-demo.png"
+image-alt: "Grupo de docentes em roda de conversa"
+participantes: 31
+horas: 3
+publico: "Docentes"
+cursos: ["Medicina", "Biomedicina"]
+projeto: "laboratorio-de-praticas"
+---
+
+## Objetivo
+
+Exemplificar uma série de encontros voltados ao aperfeiçoamento de práticas docentes.
+
+## Desenvolvimento
+
+Foram discutidas estratégias de sala de aula invertida, aprendizagem baseada em problemas e trabalho colaborativo.
+
+## Resultados e encaminhamentos
+
+Cada participante selecionou uma estratégia para experimentar no período seguinte.

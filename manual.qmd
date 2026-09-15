@@ -1,0 +1,32 @@
+---
+title: "Manual do portfólio"
+description: "Como alimentar o portfólio NAPED Afya Ipatinga usando VS Code."
+---
+
+<div class="page-kicker">Para a equipe editorial</div>
+
+Este manual acompanha a estrutura inicial. O processo completo de validação e atualização automática está planejado em [NAPED-05](https://github.com/JeffersonNetto/portifolio-naped-afya-ipatinga/blob/main/tickets/NAPED-05-contrato-validacao.md), [NAPED-06](https://github.com/JeffersonNetto/portifolio-naped-afya-ipatinga/blob/main/tickets/NAPED-06-geracao-automatica.md) e [NAPED-13](https://github.com/JeffersonNetto/portifolio-naped-afya-ipatinga/blob/main/tickets/NAPED-13-documentacao-editorial.md). Até esses tickets serem executados, os arquivos de ações são modelos editoriais e **não alimentam a vitrine automaticamente**.
+
+## Preparar o computador
+
+1. Instale VS Code, Git e Quarto a partir de suas fontes oficiais.
+2. Abra a pasta inteira do repositório no VS Code.
+3. No terminal, confira `git --version` e `quarto --version`.
+4. Antes de editar, receba as alterações recentes do repositório com `git pull`.
+
+## Preparar uma ação
+
+1. Consulte o inventário editorial e confirme que texto, fotos e evidências podem ser publicados.
+2. Copie `acoes/_modelo.qmd` para `acoes/2026-MM-descricao-curta.qmd`.
+3. Preencha data real, título, resumo, eixos aprovados, imagem e indicadores conhecidos. Não invente participantes ou horas.
+4. Coloque as imagens autorizadas em `fotos/`, com nomes descritivos em minúsculas, sem espaços ou acentos.
+5. Escreva objetivo, o que foi feito, resultado/encaminhamento e legendas das evidências.
+6. Peça revisão ao responsável editorial antes de mudar o estado para publicado.
+
+## Prévia e publicação
+
+Use `quarto preview` para ver a estrutura local e `quarto render` para gerar a versão final. Depois do aceite, registre a mudança com commit e envie ao GitHub. A aba **Actions** mostrará se a renderização e a publicação terminaram bem. A ativação do Pages e a ligação automática das ações ainda fazem parte dos tickets de implementação.
+
+## Quando houver erro
+
+Compare o cabeçalho da ação com `_modelo.qmd`. Verifique dois-pontos, aspas, data ISO, caminho e nome exato da foto. Quando o validador estiver implementado, ele indicará arquivo e campo a corrigir em português.
